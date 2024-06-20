@@ -8,3 +8,5 @@
 
 #nginx:latest
 nginx:latest
+mysql:5.7
+mysql:latest
