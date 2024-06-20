@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
+#nginx:latest
 nginx:latest
