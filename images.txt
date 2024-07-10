@@ -10,3 +10,4 @@
 nginx:latest
 mysql:5.7
 mysql:latest
+guyongquan/webhook-adapter
