@@ -12,3 +12,4 @@ mysql:5.7
 mysql:latest
 guyongquan/webhook-adapter
 velero/velero-plugin-for-microsoft-azure:v1.4.0
+webdevops/azure-metrics-exporter:latest
