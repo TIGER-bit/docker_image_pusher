@@ -14,4 +14,4 @@ guyongquan/webhook-adapter
 velero/velero-plugin-for-microsoft-azure:v1.4.0
 webdevops/azure-metrics-exporter:latest
 oliver006/redis_exporter:v1.44.0
-docker.elastic.co/logstash/logstash
+docker.elastic.co/logstash/logstash:8.5.1
