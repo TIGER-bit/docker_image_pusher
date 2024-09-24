@@ -16,3 +16,4 @@ webdevops/azure-metrics-exporter:latest
 oliver006/redis_exporter:v1.44.0
 docker.elastic.co/logstash/logstash:8.5.1
 cr.fluentbit.io/fluent/fluent-bit:latest
+webdevops/azure-metrics-exporter:latest
