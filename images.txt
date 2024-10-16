@@ -18,3 +18,4 @@ docker.elastic.co/logstash/logstash:8.5.1
 cr.fluentbit.io/fluent/fluent-bit:latest
 webdevops/azure-metrics-exporter:latest
 velero/velero-plugin-for-microsoft-azure:v1.4.0
+velero/velero:v1.8.1
