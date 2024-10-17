@@ -20,4 +20,5 @@
 #velero/velero-plugin-for-microsoft-azure:v1.4.0
 #velero/velero:v1.8.1
 #docker.io/bitnami/prometheus-operator:0.68.0-debian-11-r24
-bitnami/alertmanager:0.26.0-debian-11-r38
+#bitnami/alertmanager:0.26.0-debian-11-r38
+jumanjiman/rsyslog:latest
