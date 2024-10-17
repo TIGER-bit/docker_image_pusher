@@ -7,17 +7,17 @@
 
 
 #nginx:latest
-nginx:latest
-mysql:5.7
-mysql:latest
-guyongquan/webhook-adapter
-velero/velero-plugin-for-microsoft-azure:v1.4.0
-webdevops/azure-metrics-exporter:latest
-oliver006/redis_exporter:v1.44.0
-docker.elastic.co/logstash/logstash:8.5.1
-cr.fluentbit.io/fluent/fluent-bit:latest
-webdevops/azure-metrics-exporter:latest
-velero/velero-plugin-for-microsoft-azure:v1.4.0
-velero/velero:v1.8.1
-docker.io/bitnami/prometheus-operator:0.68.0-debian-11-r24
+#nginx:latest
+#mysql:5.7
+#mysql:latest
+#guyongquan/webhook-adapter
+#velero/velero-plugin-for-microsoft-azure:v1.4.0
+#webdevops/azure-metrics-exporter:latest
+#oliver006/redis_exporter:v1.44.0
+#docker.elastic.co/logstash/logstash:8.5.1
+#cr.fluentbit.io/fluent/fluent-bit:latest
+#webdevops/azure-metrics-exporter:latest
+#velero/velero-plugin-for-microsoft-azure:v1.4.0
+#velero/velero:v1.8.1
+#docker.io/bitnami/prometheus-operator:0.68.0-debian-11-r24
 bitnami/alertmanager:0.26.0-debian-11-r38
