@@ -30,5 +30,6 @@
 #docker.io/istio/examples-bookinfo-reviews-v1:1.20.1
 #docker.io/istio/examples-bookinfo-reviews-v2:1.20.1
 #docker.io/istio/examples-bookinfo-reviews-v3:1.20.1
-docker.elastic.co/elasticsearch/elasticsearch:8.9.0
-docker.elastic.co/kibana/kibana:8.9.0
+#docker.elastic.co/elasticsearch/elasticsearch:8.9.0
+#docker.elastic.co/kibana/kibana:8.9.0
+docker.elastic.co/elasticsearch/elasticsearch:8.9.0-amd64
