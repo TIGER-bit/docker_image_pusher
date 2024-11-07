@@ -33,5 +33,6 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.9.0
 #docker.elastic.co/kibana/kibana:8.9.0
 #docker.elastic.co/elasticsearch/elasticsearch:8.9.0-amd64
-hashicorp/vault:latest
-jenkins/jenkins:latest
+#hashicorp/vault:latest
+#jenkins/jenkins:latest
+jenkins/jenkins:lts
