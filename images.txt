@@ -36,5 +36,6 @@
 #hashicorp/vault:latest
 #jenkins/jenkins:latest
 #jenkins/jenkins:lts
-elasticsearch:8.9.0
-kibana:8.9.0
+#elasticsearch:8.9.0
+#kibana:8.9.0
+docker.elastic.co/beats/filebeat:8.9.0
