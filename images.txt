@@ -39,5 +39,6 @@
 #elasticsearch:8.9.0
 #kibana:8.9.0
 #docker.elastic.co/beats/filebeat:8.9.0
-velero/velero-plugin-for-microsoft-azure:v1.11.0
+#velero/velero-plugin-for-microsoft-azure:v1.11.0
+velero/velero:v1.15.0
 
