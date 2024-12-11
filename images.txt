@@ -42,5 +42,5 @@
 #velero/velero-plugin-for-microsoft-azure:v1.11.0
 #velero/velero:v1.15.0
 ghcr.io/prometheus-operator/prometheus-config-reloader:v0.76.0
-image: prom/prometheus:v2.54.1
+prom/prometheus:v2.54.1
 
