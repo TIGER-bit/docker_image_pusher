@@ -43,6 +43,7 @@
 #velero/velero:v1.15.0
 #ghcr.io/prometheus-operator/prometheus-config-reloader:v0.76.0
 #prom/prometheus:v2.54.1
-docker.io/jaegertracing/all-in-one:1.58
-docker.io/grafana/grafana:11.2.2-security-01
+#docker.io/jaegertracing/all-in-one:1.58
+#docker.io/grafana/grafana:11.2.2-security-01
+bitnami/thanos:0.32.3-debian-11-r11
 
