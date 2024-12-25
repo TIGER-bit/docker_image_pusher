@@ -47,4 +47,6 @@
 #docker.io/grafana/grafana:11.2.2-security-01
 #bitnami/thanos:0.32.3-debian-11-r11
 #bitnami/thanos:latest
-webdevops/azure-metrics-exporter:22.3.0
+#webdevops/azure-metrics-exporter:22.3.0
+prom/prometheus:latest
+prom/alertmanager:latest
