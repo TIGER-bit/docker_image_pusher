@@ -50,4 +50,4 @@
 #webdevops/azure-metrics-exporter:22.3.0
 #prom/prometheus:latest
 #prom/alertmanager:latest
-#consul:latest
+consul:latest
