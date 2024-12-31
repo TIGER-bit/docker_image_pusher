@@ -51,4 +51,6 @@
 #prom/prometheus:latest
 #prom/alertmanager:latest
 #hashicorp/consul:1.16.0
-lmenezes/cerebro
+#lmenezes/cerebro
+quay.io/thanos/thanos:latest
+
