@@ -52,5 +52,6 @@
 #prom/alertmanager:latest
 #hashicorp/consul:1.16.0
 #lmenezes/cerebro
-quay.io/thanos/thanos:latest
+#quay.io/thanos/thanos:latest
+grafana/grafana:latest
 
