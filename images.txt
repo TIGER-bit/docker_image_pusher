@@ -54,4 +54,5 @@
 #lmenezes/cerebro
 #quay.io/thanos/thanos:latest
 #grafana/grafana:latest
-quay.io/prometheus/blackbox-exporter
+#quay.io/prometheus/blackbox-exporter
+awaragi/prometheus-mssql-exporter
