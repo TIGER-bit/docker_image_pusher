@@ -55,4 +55,5 @@
 #quay.io/thanos/thanos:latest
 #grafana/grafana:latest
 #quay.io/prometheus/blackbox-exporter
-awaragi/prometheus-mssql-exporter
+#awaragi/prometheus-mssql-exporter
+docker.io/bitnami/kube-state-metrics:2.10.0-debian-11-r31
