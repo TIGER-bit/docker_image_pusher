@@ -56,4 +56,11 @@
 #grafana/grafana:latest
 #quay.io/prometheus/blackbox-exporter
 #awaragi/prometheus-mssql-exporter
-docker.io/bitnami/kube-state-metrics:2.10.0-debian-11-r31
+#docker.io/bitnami/kube-state-metrics:2.10.0-debian-11-r31
+redis:7.0-bullseye
+postgres:16.3-bullseye
+jumpserver/core:v4.8.0-ce
+jumpserver/koko:v4.8.0-ce
+jumpserver/lion:v4.8.0-ce
+jumpserver/chen:v4.8.0-ce
+jumpserver/web:v4.8.0-ce
