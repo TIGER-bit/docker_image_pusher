@@ -64,4 +64,5 @@
 #jumpserver/lion:v4.8.0-ce
 #jumpserver/chen:v4.8.0-ce
 #jumpserver/web:v4.8.0-ce
-registry.connextpaas.com/base/exporter-tools:2023_04_23_18-24-53
+#registry.connextpaas.com/base/exporter-tools:2023_04_23_18-24-53
+quay.io/prometheus/blackbox-exporter:v0.24.0
