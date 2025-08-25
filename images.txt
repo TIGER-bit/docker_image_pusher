@@ -66,4 +66,7 @@
 #jumpserver/web:v4.8.0-ce
 #registry.connextpaas.com/base/exporter-tools:2023_04_23_18-24-53
 #quay.io/prometheus/blackbox-exporter:v0.24.0
-hashicorp/vault:1.19.0
+#hashicorp/vault:1.19.0
+containers.promitor.io/tomkerkhove/promitor-agent-resource-discovery
+containers.promitor.io/tomkerkhove/promitor-agent-scraper
+
