@@ -69,4 +69,5 @@
 #hashicorp/vault:1.19.0
 #containers.promitor.io/tomkerkhove/promitor-agent-resource-discovery
 #containers.promitor.io/tomkerkhove/promitor-agent-scraper
-python:3.11-slim
+#python:3.11-slim
+kube-state-metrics
