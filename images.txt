@@ -73,7 +73,7 @@
 #registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
 #grafana/grafana:13.0
 #hashicorp/consul-k8s-control-plane:1.9.7
-hashicorp/consul:1.22.7
-kube-state-metrics/kube-state-metrics:v2.18.0
+#hashicorp/consul:1.22.7
+kube-state-metrics:v2.18.0
 memcached:1.6.41-alpine
 nginxinc/nginx-unprivileged:1.30.0-alpine
