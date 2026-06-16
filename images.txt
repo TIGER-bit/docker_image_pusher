@@ -77,3 +77,4 @@
 kubernetes/kube-state-metrics:v2.18.0
 #memcached:1.6.41-alpine
 #nginxinc/nginx-unprivileged:1.30.0-alpine
+mysql:8.4
