@@ -77,4 +77,10 @@
 #kubernetes/kube-state-metrics:v2.18.0
 #memcached:1.6.41-alpine
 #nginxinc/nginx-unprivileged:1.30.0-alpine
-mysql:8.4
+#mysql:8.4
+prometheus/prometheus:v3.13.1-distroless
+prometheus-operator/prometheus-operator:v0.92.1
+prometheus-operator/prometheus-config-reloader:v0.92.1
+prometheus-operator/admission-webhook:v0.92.1
+prometheus/node-exporter:v1.12.1
+kube-state-metrics/kube-state-metrics:v2.19.1
